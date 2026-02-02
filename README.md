@@ -1,5 +1,5 @@
 # Implementing-CI-CD-pipeline-for-globalMart-Ecom-Platform
-Resolved critical production deployment failures, restoring $25K/hour revenue stream*
+Resolved critical production deployment failures, restoring $25K/ hour revenue stream*
 
 Situation 
 Production deployment failures are causing site outages andan  estimated $25,000/hour revenue loss
