@@ -15,4 +15,4 @@ Fixed security group rules preventing EC2 instances in Auto Scaling groups from 
 Implemented automated rollback procedures and deployment validation checks
 
 Result 
-Restored full site functionality within 2 hours; establisheda  stable CI/CD pipeline with zero deployment failures post-implementation
+Restored full site functionality within 2 hours; establisheda  stable CI/CD pipeline with zero deployment failures post-implementation.
