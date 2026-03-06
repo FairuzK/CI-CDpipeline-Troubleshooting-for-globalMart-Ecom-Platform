@@ -1,18 +1,34 @@
-# Implementing-CI-CD-pipeline-for-globalMart-Ecom-Platform
-Resolved critical production deployment failures, restoring $25K/ hour revenue stream*
+# Overview
+### Scenario
+GlobalMart, a leading e-commerce retailer with 300+ employees across 3 regions, has implemented a CI/CD pipeline for its product catalog service, but is experiencing deployment failures and site outages. With an estimated $25,000 in lost revenue per hour of downtime, they urgently need help troubleshooting their pipeline issues. As their Cloud Support Engineer, you'll identify and resolve the misconfiguration problems causing these failures.
 
-Situation 
-Production deployment failures are causing site outages andan  estimated $25,000/hour revenue loss
+### Solution 
+A fully automated CI/CD pipeline using AWS CodePipeline and CodeDeploy with comprehensive monitoring capabilities. This project demonstrates how AWS DevOps services work together and teaches essential troubleshooting skills for common CI/CD misconfigurations.
 
-Task 
-Diagnose root cause, implement a permanent fix, and establish monitoring to prevent recurrence
+### About Project
+We'll recreate GlobalMart's CI/CD pipeline with the same issues their team faced, then troubleshoot using CloudWatch, CodePipeline logs, and the AWS Console. You'll gain hands-on experience diagnosing and fixing real-world deployment issues—just as a cloud support engineer would in a production environment.
 
-Action
-Systematically traced CI/CD execution using AWS CodePipeline and CloudWatch Logs to identify failure points
-Rectified IAM Role misconfigurations for AWS CodeDeploy, lacking necessary S3 bucket permissions
-Corrected ELB health check configurations (path and timeout settings), causing target group failures
-Fixed security group rules preventing EC2 instances in Auto Scaling groups from communicating
-Implemented automated rollback procedures and deployment validation checks
+## Steps to be performed 👩‍💻
+We'll go through the following steps in the next few lessons.
+> 1. Setting Up Your Environment: Prepare EC2 and GitHub repository.
+> 2. Configuring AWS Services: Set up IAM roles and deployment tools.
+> 3. Building Your CI/CD Pipeline: Configure CodeDeploy and CodePipeline.
+> 4. Troubleshooting Pipeline Issues: Fix common deployment problems
 
-Result 
-Restored full site functionality within 2 hours; establisheda  stable CI/CD pipeline with zero deployment failures post-implementation.
+## Services Used 🛠
+> **AWS CodePipeline:** Fully managed continuous delivery service.
+
+> **AWS CodeDeploy:** Deployment service for EC2 instances.
+
+> **Amazon EC2:** Compute instances for hosting the e-commerce application.
+
+> **AWS IAM:** Identity and access management for AWS resources.
+
+> **GitHub:** Source code repository with webhook integration.
+
+> **Amazon S3:** Storage for deployment artifacts.
+
+> **AWS Security Groups:** Virtual firewalls controlling network traffic
+
+## Diagram
+
