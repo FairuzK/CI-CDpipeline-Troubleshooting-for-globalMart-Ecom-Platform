@@ -1,12 +1,12 @@
 # Overview
 ### Scenario
-GlobalMart, a leading e-commerce retailer with 300+ employees across 3 regions, has implemented a CI/CD pipeline for its product catalog service, but is experiencing deployment failures and site outages. With an estimated $25,000 in lost revenue per hour of downtime, they urgently need help troubleshooting their pipeline issues. As their Cloud Support Engineer, you'll identify and resolve the misconfiguration problems causing these failures.
+* GlobalMart, a leading e-commerce retailer with 300+ employees across 3 regions, has implemented a CI/CD pipeline for its product catalog service, but is experiencing deployment failures and site outages. With an estimated $25,000 in lost revenue per hour of downtime, they urgently need help troubleshooting their pipeline issues. As their Cloud Support Engineer, you'll identify and resolve the misconfiguration problems causing these failures.
 
 ### Solution 
-A fully automated CI/CD pipeline using AWS CodePipeline and CodeDeploy with comprehensive monitoring capabilities. This project demonstrates how AWS DevOps services work together and teaches essential troubleshooting skills for common CI/CD misconfigurations.
+* A fully automated CI/CD pipeline using AWS CodePipeline and CodeDeploy with comprehensive monitoring capabilities. This project demonstrates how AWS DevOps services work together and teaches essential troubleshooting skills for common CI/CD misconfigurations.
 
 ### About Project
-We'll recreate GlobalMart's CI/CD pipeline with the same issues their team faced, then troubleshoot using CloudWatch, CodePipeline logs, and the AWS Console. You'll gain hands-on experience diagnosing and fixing real-world deployment issues—just as a cloud support engineer would in a production environment.
+* We'll recreate GlobalMart's CI/CD pipeline with the same issues their team faced, then troubleshoot using CloudWatch, CodePipeline logs, and the AWS Console. You'll gain hands-on experience diagnosing and fixing real-world deployment issues—just as a cloud support engineer would in a production environment.
 
 ## Steps to be performed 👩‍💻
 We'll go through the following steps in the next few lessons.
