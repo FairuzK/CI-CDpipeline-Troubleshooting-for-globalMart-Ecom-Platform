@@ -31,5 +31,5 @@ We'll go through the following steps in the next few lessons.
 > **AWS Security Groups:** Virtual firewalls controlling network traffic
 
 ## Diagram
-!(image alt)[
+!(image alt)[https://github.com/FairuzK/CI-CDpipeline-Troubleshooting-for-globalMart-Ecom-Platform/blob/282c9db2c48c8ba384cf5dcfe93e6dbee520cc40/Diagram.png]
 
