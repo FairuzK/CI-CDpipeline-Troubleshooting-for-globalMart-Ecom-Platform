@@ -31,4 +31,5 @@ We'll go through the following steps in the next few lessons.
 > **AWS Security Groups:** Virtual firewalls controlling network traffic
 
 ## Diagram
+!(image alt)[
 
