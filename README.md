@@ -33,3 +33,9 @@ We'll go through the following steps in the next few lessons.
 ## Diagram
 ![image alt](https://github.com/FairuzK/CI-CDpipeline-Troubleshooting-for-globalMart-Ecom-Platform/blob/282c9db2c48c8ba384cf5dcfe93e6dbee520cc40/Diagram.png)
 
+## Final Result
+A fully functional CI/CD pipeline for GlobalMart that demonstrates.
+* Automated deployment of the React application.
+* Secure configuration of AWS deployment services.
+* Effective troubleshooting of common pipeline issues. 
+
